@@ -1,0 +1,40 @@
+{
+  "accounts": [
+    {
+      "id": "857568345255444520",
+      "puuid": "8e827830-599a-5a1f-8551-4acf155db8a3",
+      "auth": {
+        "cookies": {
+          "tdid": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjRlOTMzOWEwLTE4YzQtNDdmNC04YmFiLTI5MWRmZDlhZDYxMSIsIm5vbmNlIjoiNUhLck8xdEs4RU09IiwiaWF0IjoxNzE2MzAyNDg1fQ.g1afSLLl0DBfNENIk61lbS4Zd59-1FQh6y5JyOxOclg",
+          "asid": "",
+          "clid": "as1",
+          "__cf_bm": "l8QlbTkYAxwVCWRLA4T5wfXjQKeoAE1YaUU2rdWFKWc-1716302474-1.0.1.1-5NgOzi1eNrVFzqDGJ.f_36QKPb.9Zcv8cDoznGOiQZH_AITom0Sg2qyO2Cqw6TB7HIFHZrtNRc9pdXB2gDtRkw",
+          "ssid": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzc2lkIjoiZ3dSY0R5WmVYY1hEQjNoZmUwcW10US5oSVFTOUU4R092dTBLamZvcjFPWmZBIiwic3ViIjoiOGU4Mjc4MzAtNTk5YS01YTFmLTg1NTEtNGFjZjE1NWRiOGEzIiwibG9naW5Ub2tlbiI6IjJlMzU1YjMyLTJjNGMtNGE5MS1iNjNjLTgzNTU3YjI5YzNjNiIsInNlcmllc1Rva2VuIjoiNjRmMGEyNGEtYWVkOC00ZGViLThkNDMtNjRlZDYxOWQ4NDFkIiwiaWF0IjoxNzE2MzAyNDg1fQ.ts7N0128BgGyaPcuffvgU_Vp3Wi1Lq3mMQzZ5bTGOwU",
+          "sub": "8e827830-599a-5a1f-8551-4acf155db8a3",
+          "csid": "gwRcDyZeXcXDB3hfe0qmtQ.hIQS9E8GOvu0Kjfor1OZfA"
+        },
+        "rso": "eyJraWQiOiJzMSIsImFsZyI6IlJTMjU2In0.eyJwcCI6eyJjIjoiYXMifSwic3ViIjoiOGU4Mjc4MzAtNTk5YS01YTFmLTg1NTEtNGFjZjE1NWRiOGEzIiwic2NwIjpbIm9wZW5pZCIsImxpbmsiLCJiYW4iLCJsb2xfcmVnaW9uIiwibG9sIiwic3VtbW9uZXIiLCJvZmZsaW5lX2FjY2VzcyJdLCJjbG0iOlsibG9sX2FjY291bnQiLCJlbWFpbF92ZXJpZmllZCIsIm9wZW5pZCIsInB3IiwibG9sIiwib3JpZ2luYWxfcGxhdGZvcm1faWQiLCJwaG9uZV9udW1iZXJfdmVyaWZpZWQiLCJwaG90byIsIm9yaWdpbmFsX2FjY291bnRfaWQiLCJwcmVmZXJyZWRfdXNlcm5hbWUiLCJsb2NhbGUiLCJiYW4iLCJyZ25fVk4yIiwibG9sX3JlZ2lvbiIsImFjY3RfZ250IiwicmVnaW9uIiwicHZwbmV0X2FjY291bnRfaWQiLCJhY2N0IiwidXNlcm5hbWUiXSwiZGF0Ijp7InAiOm51bGwsInIiOiJWTjIiLCJjIjoiYXMxIiwidSI6MzExMzE2MjAwNTcyNzIwMCwibGlkIjoiOGNzQUhWVFdYdGFtR2JBMzRXNEZMUSIsImxuayI6W119LCJpc3MiOiJodHRwczovL2F1dGgucmlvdGdhbWVzLmNvbSIsInBsdCI6eyJkZXYiOiJ1bmtub3duIiwiaWQiOiJ1bmtub3duIn0sImV4cCI6MTcxNjMwNjA4NSwiaWF0IjoxNzE2MzAyNDg1LCJqdGkiOiJnMHhMX25tNTJMVSIsImNpZCI6InJpb3QtY2xpZW50In0.L1JWUsyuluyqu34xReMdid1Xgn6yUABUbpWBIhU05IR7XQ8gr6XoyBBqLjY8HokwkobI6Xrlj19l4Od4XvFtwDWGKQm6c-XuviXclH34fbHF9knFH_Xb-wrSTPa2jfehaZxy_71rRDUlP8eDT4A3wyq7n48FNw4TxBdUSzDhwfQ",
+        "idt": "eyJraWQiOiJzMSIsInR5cCI6ImlkX3Rva2VuK2p3dCIsImFsZyI6IlJTMjU2In0.eyJhdF9oYXNoIjoiWHcyUmliUUxDT2pZQnc4RDJlLTZQZyIsInN1YiI6IjhlODI3ODMwLTU5OWEtNWExZi04NTUxLTRhY2YxNTVkYjhhMyIsImNvdW50cnkiOiJ2bm0iLCJwbGF5ZXJfcGxvY2FsZSI6bnVsbCwiY291bnRyeV9hdCI6MTY2ODg1OTYxMDAwMCwiYW1yIjpbInBhc3N3b3JkIiwibWZhIl0sImlzcyI6Imh0dHBzOi8vYXV0aC5yaW90Z2FtZXMuY29tIiwibG9sIjpbeyJjdWlkIjozMTEzMTYyMDA1NzI3MjAwLCJjcGlkIjoiVk4yIiwidWlkIjozMTEzMTYyMDA1NzI3MjAwLCJ1bmFtZSI6InJ5bjEzMDYxOTk4IiwicHRyaWQiOm51bGwsInBpZCI6IlZOMiIsInN0YXRlIjoiRU5BQkxFRCJ9XSwicGhvbmVfbnVtYmVyX3ZlcmlmaWVkIjp0cnVlLCJub25jZSI6IjY5NDIwIiwiYWNjb3VudF92ZXJpZmllZCI6dHJ1ZSwiYXVkIjoicmlvdC1jbGllbnQiLCJhY3IiOiJ1cm46cmlvdDpnb2xkIiwibG9sX3JlZ2lvbiI6W3siYWN0aXZlIjp0cnVlLCJjcGlkIjoiVk4yIiwiY3VpZCI6MzExMzE2MjAwNTcyNzIwMCwibHAiOmZhbHNlLCJwaWQiOiJWTjIiLCJ1aWQiOjMxMTMxNjIwMDU3MjcyMDB9XSwicGxheWVyX2xvY2FsZSI6InZpIiwiZXhwIjoxNzE2Mzg4ODg1LCJpYXQiOjE3MTYzMDI0ODUsImFjY3QiOnsiZ2FtZV9uYW1lIjoiUnlu5Y-I6YW35Y-I5biFIiwidGFnX2xpbmUiOiJSeW5DQiJ9LCJhZ2UiOjI1LCJqdGkiOiJYTzlTWlZhdWdRdyIsImxvZ2luX2NvdW50cnkiOiJ2bm0ifQ.H27tGbebnaYZRDwEeuaSstSp1N9Ng8i_D_SH-sA3ZUPy0yb7MhVmjZaRKeq3st94tFpuL8SBbtypYkbFGRmrsR9pKeE-UrFs8WXi4LS84r8uO4Y5B38QHLK9qlbzJO3UwSK7y5tQKGLbNTOuwmqSHADRlwadXT6CQ8DWKGc7Zgw",
+        "ent": "eyJraWQiOiJrMSIsImFsZyI6IlJTMjU2In0.eyJlbnRpdGxlbWVudHMiOltdLCJhdF9oYXNoIjoiWHcyUmliUUxDT2pZQnc4RDJlLTZQZyIsInN1YiI6IjhlODI3ODMwLTU5OWEtNWExZi04NTUxLTRhY2YxNTVkYjhhMyIsImlzcyI6Imh0dHBzOlwvXC9lbnRpdGxlbWVudHMuYXV0aC5yaW90Z2FtZXMuY29tIiwiaWF0IjoxNzE2MzAyNDg2LCJqdGkiOiJnMHhMX25tNTJMVSJ9.eP8cNWmJN2A-gvQ04usbtY5OAVH8td6ZrZCEIXrvJOGxXrrL5hvnn8B6OUq1HzhHC6-VGC8z7440wpVW3tFQfRb6tUPnMumhDNA5-qjaWwi4plZ-GXDYoU5Iy394KpXYBUmjTjtBmplET49UmPN04z5lYsU5M5B3GPFNRhSp9Vxsc_qWfYt2pblpPsvdgqjIyLYfk6SX9mb96dbDXcYVZuVnMmk-H5qf6OzXUXFcf_Z2mtAPKvt-QHguB84Rp6M5kqYVm3YiH85LkL_UXiW_Ld30Tz4G8VFyM2_5_XLXyzpCmjstmUX5o3pI0MtpCuvESvLpJEelriYwrZl4WYiJyQ"
+      },
+      "alerts": [],
+      "username": "Ryn又酷又帅#RynCB",
+      "region": "ap",
+      "authFailures": 0,
+      "lastFetchedData": 1716302485102,
+      "lastNoticeSeen": "",
+      "lastSawEasterEgg": 0
+    }
+  ],
+  "currentAccount": 1,
+  "settings": {
+    "dailyShop": false,
+    "pingOnAutoDailyShop": true,
+    "hideIgn": false,
+    "othersCanViewShop": true,
+    "othersCanViewColl": true,
+    "othersCanViewProfile": true,
+    "othersCanUseAccountButtons": true,
+    "locale": "vi"
+  }
+}
